@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning two coding language: Java and Python
 - 💞️ I’m looking to collaborate on Github? hehe
 - 📫 How to reach me: Telegram: t.me/cmoeo
-
+- I've just "rolled" Zhongli!!
 <!---
 MoeoCon/MoeoCon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Screenshot_20210513-125400_Genshin Impact](https://user-images.githubusercontent.com/39426018/118351496-8cf45500-b586-11eb-8800-43c1af4c7121.png)
+![Zhongli](https://user-images.githubusercontent.com/39426018/118432644-58f26e80-b703-11eb-9f0e-bc3095ad91b0.jpg)
